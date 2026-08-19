@@ -11,7 +11,7 @@ Data cleaning and preprocessing project.
 **Focus:** Data quality, missing values, duplicates, data types,
 and preprocessing.
 
-[View Project](./Task-1-Data-Cleaning/)
+[View Project](./Preparing%20Raw%20Data%20for%20Reliable%20Analysis.ipynb/)
 
 ---
 
