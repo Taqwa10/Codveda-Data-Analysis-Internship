@@ -20,7 +20,7 @@ Exploratory Data Analysis project.
 
 **Focus:** Trends, distributions, relationships, and data-driven insights.
 
-[View Project](./Task-2-EDA/)
+[View Project](./Finding_Patterns_and_Insights_in_Customer_Data.ipynb/)
 
 ---
 
