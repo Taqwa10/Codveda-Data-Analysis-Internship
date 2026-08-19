@@ -48,4 +48,4 @@ Natural Language Processing project.
 
 **Focus:** Text preprocessing and sentiment classification.
 
-[View Project](./Task-5-NLP/)
+[View Project](./Turning%20Customer%20Text%20into%20Sentiment%20Insights.ipynb/)
