@@ -30,7 +30,7 @@ Regression analysis project.
 **Focus:** Building and evaluating a regression model to understand
 relationships and make predictions.
 
-[View Project](./Task-3-Regression/)
+[View Project](./Predicting_Outcomes_with_Regression_Analysis.ipynb/)
 
 ---
 
