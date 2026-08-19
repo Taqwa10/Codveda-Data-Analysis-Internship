@@ -39,7 +39,7 @@ Time series analysis project.
 
 **Focus:** Trends, seasonality, moving averages, and time-dependent patterns.
 
-[View Project](./Task-4-Time-Series/)
+[View Project](./Analyzing_Stock_Price_Trends_Over_Time.ipynb/)
 
 ---
 
